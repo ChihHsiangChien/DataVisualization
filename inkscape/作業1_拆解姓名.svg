@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="127.5881mm"
+   height="111.69627mm"
+   viewBox="0 0 127.5881 111.69627"
+   version="1.1"
+   id="svg17635"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="作業1_拆解姓名.svg">
+  <defs
+     id="defs17629">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient17772">
+      <stop
+         style="stop-color:#fc6969;stop-opacity:1"
+         offset="0"
+         id="stop17768" />
+      <stop
+         style="stop-color:#de8787;stop-opacity:0;"
+         offset="1"
+         id="stop17770" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient17772"
+       id="linearGradient17776"
+       x1="59.53125"
+       y1="103.85416"
+       x2="59.53125"
+       y2="111.79166"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.062813,0,0,0.66821489,-3.6657683,34.21742)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="168.32581"
+     inkscape:cy="195.78753"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:object-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     fit-margin-top="20"
+     fit-margin-left="20"
+     fit-margin-right="20"
+     fit-margin-bottom="20">
+    <inkscape:grid
+       type="xygrid"
+       id="grid17764"
+       originx="8.4488412"
+       originy="-166.74396" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata17632">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="圖層 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(8.4488408,-18.559756)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="11.339286"
+       y="41.488087"
+       id="text17639"><tspan
+         sodipodi:role="line"
+         id="tspan17637"
+         x="11.339286"
+         y="41.488087"
+         style="stroke-width:0.26458332">使用姓名中的一個字</tspan><tspan
+         sodipodi:role="line"
+         x="11.339286"
+         y="46.357731"
+         style="stroke-width:0.26458332"
+         id="tspan17641">將文字轉換成路徑，並將路徑打散成各個元素</tspan><tspan
+         sodipodi:role="line"
+         x="11.339286"
+         y="51.227371"
+         style="stroke-width:0.26458332"
+         id="tspan17643">各元素內需填色或改變邊框，至少有一個線性或放射漸層</tspan><tspan
+         sodipodi:role="line"
+         x="11.339286"
+         y="56.097015"
+         style="stroke-width:0.26458332"
+         id="tspan17645">編輯其中一個元素的路徑</tspan><tspan
+         sodipodi:role="line"
+         x="11.339286"
+         y="60.966656"
+         style="stroke-width:0.26458332"
+         id="tspan17647">至少旋轉或縮放變形其中一個元素</tspan><tspan
+         sodipodi:role="line"
+         x="11.339286"
+         y="65.836296"
+         style="stroke-width:0.26458332"
+         id="tspan17649">需有路徑的邏輯運算(相加或相減...)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="16.570709"
+       y="109.1095"
+       id="text17653"><tspan
+         sodipodi:role="line"
+         id="tspan17651"
+         x="16.570709"
+         y="109.1095"
+         style="font-size:22.57777786px;stroke-width:0.26458332">簡</tspan></text>
+    <path
+       style="font-style:normal;font-weight:normal;font-size:22.57777786px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 65.0423,94.593742 c -1.322917,-1.852084 -3.92355,-2.910417 -6.3048,-2.910417 -0.529167,0.264583 -0.521817,0.05145 -1.322917,0.79375 l -0.837847,-0.771701 c 1.242072,-1.10978 1.947628,-0.804774 2.734028,-2.193837 L 60.325,89.831242 c -0.15434,0.382176 -0.235186,0.654108 -0.529167,1.058333 3.391109,-1.066103 5.51105,2.38125 6.569383,3.704167 z"
+       id="path17685"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="font-style:normal;font-weight:normal;font-size:22.57777786px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e9afaf;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+       d="m 222.68359,361.42383 v 20.83398 h 23.91602 v 21.83203 c 0,1.66667 -1.23676,2.5 -3.70899,2.5 -1.47221,0 -2.94379,-0.0682 -4.41601,-0.20703 l 1.54101,4.33203 h 3.25 c 2.47223,0 4.33399,-0.42991 5.58399,-1.29101 1.27778,-0.8611 1.91601,-2.30619 1.91601,-4.33399 v -43.66601 z m 4.20703,4.04101 c 0,0 0.14093,-1.94518 10.10938,-1.94518 10.32649,0 9.59961,1.94518 9.59961,1.94518 v 4.33399 c 0,0 0.40039,-2.27917 -9.59961,-2.27917 -10,0 -10.10938,2.27917 -10.10938,2.27917 z m 0,8 c 0,0 0.10938,-1.94518 10.07367,-1.94518 10.0358,0 9.63532,1.94518 9.63532,1.94518 v 4.79297 c 0,0 -0.59961,-2.73815 -9.67996,-2.73815 -9.91965,0 -10.02903,2.73815 -10.02903,2.73815 z"
+       transform="scale(0.26458333)"
+       id="path17679"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccssccscscccsccscccsccscc" />
+    <path
+       style="opacity:1;vector-effect:none;fill:url(#linearGradient17776);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.17270266;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 58.735399,103.01414 c -2.274609,7e-5 -4.118515,0.31302 -4.118632,1.74313 -1.89e-4,1.43023 1.843807,2.58974 4.118632,2.58982 2.275035,1.1e-4 4.119364,-1.15946 4.119175,-2.58982 -1.17e-4,-1.43024 -1.844355,-1.74324 -4.119175,-1.74313 z m 0,0.7072 c 1.4594,6.7e-4 2.713772,-0.23303 2.993817,0.66748 -0.128051,-0.0483 -0.313286,-0.14246 -0.437184,-0.0781 -1.708137,0.88808 -3.437255,0.84005 -5.18412,0 -0.102502,-0.0493 -0.24978,0.0194 -0.359195,0.0514 0.297031,-0.88828 1.54295,-0.64041 2.986682,-0.64089 z m 2.913081,1.61087 c -0.399481,0.80027 -1.57901,1.34486 -2.913081,1.34498 -1.320232,-0.002 -2.4897,-0.53575 -2.898807,-1.32496 0.08567,0.0181 0.187857,6.7e-4 0.27132,0.0301 1.822243,0.64012 3.542572,0.58772 5.18412,0 0.111117,-0.0397 0.2478,-0.0186 0.356448,-0.05 z"
+       id="path17754"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccsscccccsscc" />
+    <path
+       sodipodi:nodetypes="cccssccscscccsccscccsccscc"
+       inkscape:connector-curvature="0"
+       id="path17766"
+       d="m 58.461807,95.62672 v 5.51232 h -6.32778 v 5.7764 c 0,0.44097 0.327226,0.66145 0.981337,0.66145 0.389522,0 0.778877,-0.018 1.168402,-0.0548 l -0.407725,1.14618 h -0.859896 c -0.654111,0 -1.146702,-0.11375 -1.477431,-0.34158 -0.338079,-0.22783 -0.506944,-0.61018 -0.506944,-1.1467 v -11.5533 z m -1.11311,1.069184 c 0,0 -0.03729,-0.514662 -2.674774,-0.514662 -2.732217,0 -2.539896,0.514662 -2.539896,0.514662 v 1.146702 c 0,0 -0.105937,-0.603031 2.539896,-0.603031 2.645834,0 2.674774,0.603031 2.674774,0.603031 z m 0,2.116667 c 0,0 -0.02894,-0.514662 -2.665325,-0.514662 -2.655306,0 -2.549345,0.514662 -2.549345,0.514662 v 1.268139 c 0,0 0.158646,-0.724468 2.561156,-0.724468 2.624574,0 2.653514,0.724468 2.653514,0.724468 z"
+       style="font-style:normal;font-weight:normal;font-size:22.57777786px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e9afaf;fill-opacity:1;stroke:none;stroke-width:0.26458332" />
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:connector-curvature="0"
+       id="path17778"
+       d="m 57.091646,94.023286 c -1.322916,-1.852084 -0.968721,-1.735601 -3.349055,-1.337196 -0.396875,0.580613 -0.995863,1.242072 -1.796962,1.984375 l -0.837847,-0.771701 c 1.242072,-1.10978 2.256308,-2.359201 3.042708,-3.748264 l 1.014235,0.319705 c -0.154339,0.382176 -0.378501,0.775376 -0.672482,1.179601 3.391109,-1.066103 2.863985,1.050563 3.922319,2.37348 z"
+       style="font-style:normal;font-weight:normal;font-size:22.57777786px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path17782"
+       d="m 57.091646,94.023286 -0.470813,1.099622 C 56.253687,94.682387 53.464047,94.300687 52.597548,94.858325 L 52.3875,94.064575 c 0.658935,-0.585643 4.276066,-0.362754 4.704146,-0.04129 z"
+       style="font-style:normal;font-weight:normal;font-size:22.57777786px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332" />
+    <path
+       style="font-style:normal;font-weight:normal;font-size:22.57777786px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 59.674407,94.036844 0.470813,1.099622 c 0.367146,-0.440521 3.156786,-0.822221 4.023285,-0.264583 l 0.29376,-0.814394 c -0.658935,-0.585643 -4.359778,-0.34211 -4.787858,-0.02065 z"
+       id="path17784"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>

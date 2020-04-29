@@ -49,9 +49,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="168.32581"
-     inkscape:cy="195.78753"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="285.52553"
+     inkscape:cy="225.10725"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -84,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -128,7 +128,12 @@
          x="11.339286"
          y="65.836296"
          style="stroke-width:0.26458332"
-         id="tspan17649">需有路徑的邏輯運算(相加或相減...)</tspan></text>
+         id="tspan17649">需有路徑的邏輯運算(相加或相減...)</tspan><tspan
+         sodipodi:role="line"
+         x="11.339286"
+         y="70.70594"
+         style="stroke-width:0.26458332"
+         id="tspan28">匯出 300 DPI的 PNG圖片</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
